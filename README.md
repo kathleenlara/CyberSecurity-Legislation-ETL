@@ -17,3 +17,5 @@ Converting Division numbers to division names, region numbers to region names, S
 Splitting the State column (State name & State ID), changing State name to uppercase, changing state ID to uppercase, changing data types (Year to date, Legislation ID to String), Removed extra fields not needed.
 - Mathematical Fields:
 Calculated column: getting the sum of Total Cyber Security Legislations in the last 5 years, calculated column: getting the sum of total ransomware attacks in the last 5 years,  Ratios: Cybersecurity Legislations/Total Attacks
+
+Final presentation: https://public.tableau.com/profile/kathleen.lara#!/vizhome/Cybersecuirty/USCybersecuirtyLegislation
