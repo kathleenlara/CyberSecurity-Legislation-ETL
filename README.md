@@ -1,8 +1,8 @@
 # CYBERSECURITY LEGISLATION IN UNITED STATES 
-A simple ETL project of a dataset using Tableau Prep. 
+A simple ETL project of a dataset using Tableau Prep + Final dashboard output.
 
 ## Business Problem
-Connect datasets from different data sources and create a single dataset by joining the different data tables using Tableau Prep.
+Connect datasets from different data sources and create a single dataset by joining the different data tables using Tableau Prep, after doing the ETL work, create a dashboard on the data.
 
 ## Solving the Problem
 
